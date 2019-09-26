@@ -1,0 +1,45 @@
+html, body {
+    height: 100%;
+    padding: 0;
+}
+
+input {
+    -webkit-appearance: none;
+}
+
+div {
+    padding: 5px;
+}
+
+input {
+    width: 120px;
+}
+
+svg {
+    width: 500;
+    height: 500;
+    border: 1px black solid;
+}
+
+.header {
+    font: 16pt sans-serif;
+    width: 1040px;
+    text-align: center;
+}
+
+.rowdetail {
+    font: 12pt sans-serif;
+}
+
+.view {
+    display: inline-block;
+    width: 510px;
+}
+
+.scatters {
+    display: inline-block;
+}
+
+.container {
+    position: relative;
+}
